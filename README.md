@@ -1,6 +1,6 @@
 <h1>Sophie Wardle</h1>
 
-![Sophie's GitHub Banner](https://github.com/SophieWardle/SophieWardle/assets/profileBanner.png)
+![Sophie's GitHub Banner](https://github.com/SophieWardle/SophieWardle/tree/main/assets/profileBanner.png)
 ### Hi there 👋
 
 <!--
