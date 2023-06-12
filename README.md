@@ -1,7 +1,7 @@
 <h1>Sophie Wardle</h1>
 
 <p>
-![Sophie's GitHub Banner](./assets/profileBanner.png)
+![Sophie's GitHub Banner](/assets/profileBanner.png)
 ### Hi there 👋
 </p>
 <!--
