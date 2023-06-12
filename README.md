@@ -8,7 +8,7 @@
 
 ✨ I'm a developer and recent graduate with experience in both frontend and backend. I have worked on a variety of projects, which I'm working to showcase on GitHub, from both ground up and in collaboration with other developers and stakeholders from university. I love solving problems with code and I'm excited to start on more new projects! ✨
 
-<p align="left">
+<p>
     <a href="https://www.linkedin.com/in/sophie-wardle-87a57b1a6/"></a>
 </p>
 <!--
