@@ -1,8 +1,9 @@
 <h1>Sophie Wardle</h1>
 
-![Sophie's GitHub Banner](https://github.com/SophieWardle/SophieWardle/tree/main/assets/profileBanner.png)
+<p>
+![Sophie's GitHub Banner](assets/profileBanner.png)
 ### Hi there 👋
-
+</p>
 <!--
 **SophieWardle/SophieWardle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
